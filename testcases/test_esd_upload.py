@@ -21,7 +21,7 @@ class Test_EsdUpload():
         bd.login(ReadConfigfiles.get_username(), ReadConfigfiles.get_password())
         logging.info("Browser launched")
         logging.info("Login successful")
-        ed.search_and_upload("STG-PO-2027-0082")
+        ed.search_and_upload("STG-PO-2027-0081")
         logging.info("Upload page opened")
         time.sleep(2)
         current_url = self.driver.current_url
