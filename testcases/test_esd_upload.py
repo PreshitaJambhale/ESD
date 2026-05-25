@@ -6,12 +6,13 @@ from utilities.read_config import ReadConfigfiles
 import logging
 
 
+logging.basicConfig(level=logging.INFO)
 
 @pytest.mark.usefixtures("setup")
 class Test_EsdUpload():
 
     def test_esd_upload(self):
-        logging.basicConfig(level=logging.INFO)
+        
 
 
 
