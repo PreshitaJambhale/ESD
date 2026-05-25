@@ -1,0 +1,254 @@
+
+
+{
+  "login": {
+    "username": "admin",
+    "password": "test"
+  },
+
+  "basic_info": {
+    "sales_ex_name": "Harshali Jambhale",
+    "sales_spe_name": "Harshali Jambhale",
+    "prod_group_name": "SI",
+    "regularization_name": "No"
+  },
+
+  "customer": {
+    "branch_name": "Mumbai",
+    "customer_index": 4
+  },
+
+  "products": [
+    {
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time"
+    }
+
+  ],
+  "second_line_item": [
+    {
+      "current_value": 2,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "Renewal",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+    ],
+    "third_line_item": [
+    {
+      "current_value": 3,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "Renewal",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+    ],
+    "fourth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "fifth_line_item":[
+    {
+      "current_value": 5,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "sixth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "Renewal",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "seventh_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "Renewal",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "eighth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "Renewal",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "ninth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "tenth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "eleventh_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "twelevth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ],
+  "fourth_line_item":[
+    {
+      "current_value": 4,
+      "sbu_name": "Synergy",
+      "principal_name": "Remote Management Services",
+      "product_name": "Firewall Remote Management Services",
+      "hsn_code": 1,
+      "quantity": 10,
+      "selling_price": 45000,
+      "cost_price": 40000,
+      "fulfilment_type_name": "Internal",
+      "fulfilment_team_name": "Ongoing Support",
+      "service_type_name": "New",
+      "billing_type_name": "One Time",
+      "ISD_name": "GST"
+    }
+
+  ]
+
+
+
+}
